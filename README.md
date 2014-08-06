@@ -9,7 +9,7 @@ utorrentUser: "",
 utorrentPassword: "",
 utorrentPort: "",
 serverPort: "5004",
-traktApiKey: "5a6741f036689886bb9d030fed43af82",
+traktApiKey: "...",
 env: "production"
 ```
 
