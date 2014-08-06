@@ -13,10 +13,13 @@
     "co-parallel": "^1.0.0",
     "cogent": "^1.0.0",
     "debug": "^1.0.4",
+    "download-post-process": "git://github.com/axelhzf/download-post-process.git",
     "pirateship": "git://github.com/axelhzf/pirateship.git#master",
     "socket.io": "^1.0.6",
+    "subtitles-downloader": "^0.2.1",
     "thunkify": "^2.1.2",
     "underscore": "^1.6.0",
-    "underscore.string": "^2.3.3"
+    "underscore.string": "^2.3.3",
+    "utorrent-api": "^0.1.3"
   }
 }
